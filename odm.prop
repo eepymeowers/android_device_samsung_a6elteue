@@ -1,0 +1,5 @@
+ro.omc.build.id=53225033
+ro.omc.build.version=A600UOYMACVF2
+ro.omc.changetype=DATA_RESET_OFF,TRUE
+ro.omc.disabler=FALSE
+ro.simbased.changetype=XAA,SED
