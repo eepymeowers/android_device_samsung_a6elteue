@@ -2,7 +2,8 @@
 The Galaxy A6 (2018) (codenamed _"a6elteue"_) is a smartphone from Samsung.
 It was released in 2018.
 
-| Basic                   | Spec Sheet                                                                                                                                   | |------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Basic                   | Spec Sheet                                                                                                                                   |
+|------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | CPU                     | Octa-core 1.6 GHz Cortex-A53                                                                                                                 |
 | Chipset                 | Exynos 7884 Octa                                                                                                                             |
 | GPU                     | Mali-T830 MP1                                                                                                                                |
@@ -15,3 +16,5 @@ It was released in 2018.
 | Camera (Front)          | 16 MP, f/1.9, 26mm (wide), 1/3.06", 1.0µm, LED flash, 1080p at 30fps                                                                         |
 
 Copyright 2025 - The LineageOS Project.
+
+![Galaxy A6 (2018)](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a6-2018-2.jpg "Galaxy A6 (2018)")
