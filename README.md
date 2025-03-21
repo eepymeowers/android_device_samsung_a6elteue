@@ -5,7 +5,7 @@ It was released in 2018.
 | Basic                   | Spec Sheet                                                                                                                                   |
 |------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | CPU                     | Octa-core 1.6 GHz Cortex-A53                                                                                                                 |
-| Chipset                 | Exynos 7884 Octa                                                                                                                             |
+| Chipset                 | Exynos 7870 Octa *or* Exynos 7884 Octa                                                                                                       |
 | GPU                     | Mali-T830 MP1                                                                                                                                |
 | Memory                  | 3/4 GB RAM                                                                                                                                   |
 | Shipped Android Version | 8.0                                                                                                                                          |
